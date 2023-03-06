@@ -1,4 +1,4 @@
-# update-prem
+# update-premium
 Good People 
 $ pkg update && pkg upgrade
 
