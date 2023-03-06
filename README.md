@@ -18,7 +18,7 @@ $ pip install rich
 
 $ pkg install play-audio
 
-$ git clone https://github.com/MRSt3Ss/update-premium
+$ git clone https://github.com/MRSt3Ss/update-prem
 
 $ cd premium
 
